@@ -6,4 +6,4 @@ perform voluntary actions. To communicate with such people, techniques such as b
 were used which were highly uncomfortable and less efficient. We have presented a video-oculography (VOG) based model that automates the task of communicating with the paralyzed patients by reading their facial landmarks, eyes
 movement and transforming them into textual communication. We have used haar cascade classifier for face and eye detection and then we have distinguished between voluntary and involuntary blinks through which the user can communicate. We have also tested this model’s performance based on the distance between the user and the system. The aim is not only to provide accessible technology but also help such people to achieve independence that could be morally
 uplifting as well.
-Keywords: Haar Cascade Classifier, Dlib, Computer Vision, VOG, LIS, Twilio, Facial Landmarks
+
